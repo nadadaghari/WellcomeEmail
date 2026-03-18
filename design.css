@@ -1,5 +1,6 @@
 body {
     background-color:hsl(43, 87%, 79%);
+}
       
 .banner{
     position: relative;
@@ -70,9 +71,71 @@ body {
 .Obt:hover{
     background-color:#fdd07e;
 }
-      
 
+.Obt2{
+     position: absolute;
+    top: 70%;
+    left: 16%;
+    transform: translate(-50%, -50%);
+     height: 50px;
+     width: 700px;
+     margin-right:500px;
+     margin-left: 500px;
+     margin-top: 15px;
+     background-color: #fdd589;
+     border-color: darkgoldenrod;
+     border-radius: 8px;
+     cursor: pointer;
+     font-size: 25px;
+      color: #473300;
 }
+.Obt2:hover{
+    background-color:#fdd07e;
+}
+.Obt3{
+     position: absolute;
+    top: 80%;
+    left: 16%;
+    transform: translate(-50%, -50%);
+     height: 50px;
+     width: 700px;
+     margin-right:500px;
+     margin-left: 500px;
+     margin-top: 15px;
+     background-color: #fdd589;
+     border-color: darkgoldenrod;
+     border-radius: 8px;
+     cursor: pointer;
+     font-size: 25px;
+      color: #473300;
+}
+.Obt3:hover{
+    background-color:#fdd07e;
+}
+.Obt4{
+     position: absolute;
+    top: 90%;
+    left: 16%;
+    transform: translate(-50%, -50%);
+     height: 50px;
+     width: 700px;
+     margin-right:500px;
+     margin-left: 500px;
+     margin-top: 15px;
+     background-color: #fdd589;
+     border-color: darkgoldenrod;
+     border-radius: 8px;
+     cursor: pointer;
+     font-size: 25px;
+      color: #473300;
+}
+.Obt4:hover{
+    background-color:#fdd07e;
+}
+      
+   
+
+
     
 
 
