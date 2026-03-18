@@ -60,15 +60,15 @@ body {
      margin-right:500px;
      margin-left: 500px;
      margin-top: 15px;
-     background-color: rgb(176, 132, 18);
+     background-color: #fdd589;
      border-color: darkgoldenrod;
      border-radius: 8px;
      cursor: pointer;
      font-size: 25px;
-      color: #8b6503;
+      color: #473300;
 }
 .Obt:hover{
-    background-color: rgb(250, 237, 178);
+    background-color:#fdd07e;
 }
       
 
