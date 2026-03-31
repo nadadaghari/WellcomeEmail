@@ -40,7 +40,7 @@ body {
     color: #f7d682;
     text-align: center;
     font-family: "Times New Roman", serif;
-    font-size: 70px;
+    font-size: 50px;
     font-weight: bold;
     text-shadow: 3px 3px 10px rgba(0,0,0,0.8);
 }
@@ -48,9 +48,11 @@ body {
   height: 6px;
   background-color: rgb(118, 87, 0);
   width: 90%;
-   border-radius: 10px;
-   margin-left: 60px;
+  border-radius: 10px;
+  margin: 5px auto;
 }
+
+
 .Obt{
      position: absolute;
     top: 60%;
@@ -132,8 +134,28 @@ body {
 .Obt4:hover{
     background-color:#fdd07e;
 }
+
+ @media (max-width: 430px) {
+  .banner-title h1{
+    font-size: 16px;
+  }
+
+  .line {
+    margin: 5px auto;
+  }
+
+  .Obt,.Obt2, .Obt3, .Obt4 {
+    width: 90%;
+    max-width: 250px;
+    font-size: 16px;
+    margin: 50px auto;
+  }
+
+}
+
+
       
-   
+
 
 
     
